@@ -1,0 +1,1 @@
+$('ul').jsonviz(json); take a json object or json string and renders it as nested unordered lists inside the selected elements. The css file makes it pretty!
